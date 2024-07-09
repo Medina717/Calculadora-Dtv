@@ -102,10 +102,6 @@ def mostrar_detalle_y_calcular_total(*args):
         else:
             descuento_aplicado = 0
             
-        
-                    
-
-
         # Agregar costo de caja adicional
         caja_adicional_seleccionada = decos_combobox.get()
         if caja_adicional_seleccionada in caja_adicional:
