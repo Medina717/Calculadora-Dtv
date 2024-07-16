@@ -1,5 +1,3 @@
-from gui import var_seleccion, var_tipo_plan
-# Definir los precios de los planes
 
 
 precios_combo = {
