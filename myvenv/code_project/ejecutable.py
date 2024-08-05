@@ -1,13 +1,8 @@
 import main
 
-def run ():
-    main
-    main.mostrar_detalle_y_calcular_total()
-    
+main.crear_interfaz()
     
     
 
 
     
-if __name__ == "__main__":
-    run()
