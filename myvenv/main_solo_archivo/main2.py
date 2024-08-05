@@ -168,7 +168,7 @@ def mostrar_detalle_y_calcular_total(*args):
 #mostrar_detalle_y_calcular_total()
 
 root = tk.Tk()
-root.iconbitmap('D:\\Proyecto\\myvenv\\iconos\\pago_mensual_WeR_icon.ico')
+root.iconbitmap('E:\Proyecto\myvenv\iconos')
 root.title("Calculadora de Facturas")
 root.geometry("440x680")
 root.resizable(0,0)

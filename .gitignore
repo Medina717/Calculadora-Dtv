@@ -1,6 +1,9 @@
 # Creado por https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 # Editar en https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,python
 
+#carpeta especial
+main_solo_archivo
+
 ### Linux ###
 *~
 

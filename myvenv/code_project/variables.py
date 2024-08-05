@@ -1,5 +1,3 @@
-
-
 precios_combo = {
     "SELECT":48.61,
     "SELECT COMBO": 55,
